@@ -23,3 +23,21 @@ img{
     height: 50%;
     display: block;
 }
+
+.run{
+    float: right;
+    width: 700px;
+    padding: 3px;
+}
+
+.game{
+    float: right;
+    width: 592px;
+    padding: 48px;
+}
+
+.selfpic{
+    float: left;
+    width: 500px;
+    padding: 3px;
+}
